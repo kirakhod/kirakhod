@@ -23,6 +23,11 @@
             <td>Лосось, мидии, креветки, оливки, сыр</td>
             <td>600 рублей</td>
         </tr>
+        <tr style=border:1px solid firebrick">
+             <td>Пеперони</td>
+             <td>пеперони,сыр,томатный соус</td>
+             <td>500 рубле</td>
+        </tr>
     </table>
     <p><img src="/uploads/2020/10/food-3309418_1920_0_1603914793.jpg" width="550px"/></p>
 </html>
